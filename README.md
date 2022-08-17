@@ -6,8 +6,8 @@
 
 <div align="center" style="display:inline-block">
   <a href="https://github.com/KarinaScalabrini">
-  <img width:"42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarinaScalabrini&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img  width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaScalabrini&layout=compact&langs_count=7&theme=bear"/>
+  <img  height="180em" width:"48%" src="https://github-readme-stats.vercel.app/api?username=KarinaScalabrini&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img  height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaScalabrini&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: flex"><br>

@@ -4,10 +4,10 @@
 - I seek to improve my knowledge in Javascript.
 ##
 
-<div align="center" style="display:inline-block">
+<div align="center">
   <a href="https://github.com/KarinaScalabrini">
-  <img width:"48%" src="https://github-readme-stats.vercel.app/api?username=KarinaScalabrini&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaScalabrini&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" width:"40%" src="https://github-readme-stats.vercel.app/api?username=KarinaScalabrini&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="181em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaScalabrini&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: flex"><br>

@@ -2,6 +2,16 @@
 
 - I am currently a front-end intern  but my goal is to be a Fullstack developer.
 - I seek to improve my knowledge in Javascript.
+
+```Javascript
+ Const KarinaScalabrini = {
+ Name: "Karina Scalabrini,
+ Age: "27 years",
+ Job: "Developer front-end",
+ Languages: "Javascript",
+ Hobby: "Reading and running",
+ };
+ ```
 ##
 
 <div align="center" >

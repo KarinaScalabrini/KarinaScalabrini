@@ -4,13 +4,13 @@
 - I seek to improve my knowledge in Javascript.
 
 ```Javascript
- Const KarinaScalabrini = {
+ Const KarinaScalabrini = [{
  Name: "Karina Scalabrini,
  Age: "27 years",
  Job: "Developer front-end",
  Languages: "Javascript",
  Hobby: "Reading and running",
- };
+ }];
  ```
 ##
 
@@ -40,7 +40,7 @@
 
  
  
-  ![Snake animation](https://github.com/KarinaScalabrini/KarinaScalabrini/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 

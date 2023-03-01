@@ -7,8 +7,8 @@
  Const KarinaScalabrini = [{
  Name: "Karina Scalabrini,
  Age: "27 years",
- Job: "Developer front-end",
- Languages: "Javascript",
+ Job: "Developer Full Stack",
+ Languages: "Javascript and PHP",
  Hobby: "Reading and running",
  }];
  ```

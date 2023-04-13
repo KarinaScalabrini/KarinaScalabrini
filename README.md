@@ -1,7 +1,7 @@
-## I'm Karina Scalabrini and i'm glad you're here! 
+# Hello, I'm Karina Scalabrini. 
 
-- I am currently a front-end intern  but my goal is to be a Fullstack developer.
-- I seek to improve my knowledge in Javascript.
+## I program the future
+## Turning challenges into algorithms and problems into solutions
 
 ```Javascript
  Const KarinaScalabrini = [{

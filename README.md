@@ -7,7 +7,7 @@
 ```Javascript
  Const KarinaScalabrini = [{
  Name: "Karina Scalabrini,
- Age: "27 years",
+ Age: "29 years",
  Job: "Developer Full Stack",
  Languages: "Javascript and PHP",
  Hobby: "Reading and running",

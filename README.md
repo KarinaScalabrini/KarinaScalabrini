@@ -1,6 +1,5 @@
 # Hello, I'm Karina Scalabrini. 
 
-## I program the future...
 ## I turn challenges into algorithms and problems into solutions.
 ### How can I help you?
 
